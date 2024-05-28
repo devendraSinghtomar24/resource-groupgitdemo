@@ -5,6 +5,6 @@ resource_groups = {
     },
         rg2 = {
         name = "devrg12"
-        location: "west us"
+        location: "east us"
     }
 }
